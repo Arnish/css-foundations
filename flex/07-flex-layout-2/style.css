@@ -5,11 +5,13 @@ body {
 }
 
 .header {
+  display: flex;
   height: 72px;
   background: darkmagenta;
   color: white;
   font-size: 32px;
   font-weight: 900px;
+  align-items: center;
 }
 
 .mid {
